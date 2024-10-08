@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QuentinMALLEGOL
-- 👀 I’m interested in win X's Cup. 
+- 👀 I’m interested in winning X's Cup. 
 
 <!---
 QuentinMALLEGOL/QuentinMALLEGOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
